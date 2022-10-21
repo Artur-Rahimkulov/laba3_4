@@ -1,6 +1,4 @@
-import logo from './logo.svg';
 import './App.css';
-import Marquee from "react-fast-marquee";
 import 'antd/dist/antd.min.css';
 import { forwardRef, useEffect, useRef, useState } from 'react';
 import { Button, Carousel } from 'antd';
