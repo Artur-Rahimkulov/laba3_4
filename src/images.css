@@ -1,0 +1,573 @@
+.Showhide0 {
+  background-image: url('../public/Prismatic-Animals-Heart.png');
+  /* filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(130deg) brightness(95%) contrast(80%); */
+  /* animation: spin 4s linear infinite !important; */
+}
+
+.img0 {
+  background-image: url('../public/1649147161recycling-symbol-color-silhouette.png');
+  filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(130deg) brightness(95%) contrast(80%);
+  animation: spin 4s linear infinite !important;
+}
+
+.img2 {
+  background-image: url('../public/1496526392.png');
+  filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(130deg) brightness(95%) contrast(80%)
+}
+
+.img3 {
+  background-image: url('../public/greenmonst.png');
+  animation: run 0.5s reverse !important;
+}
+
+.img4 {
+  background-image: url('../public/midkiffaries-Glossy-Emoticons.png');
+  /* filter: grayscale(100%); */
+  /* margin-top: 10%; */
+}
+
+.img5 {
+  background-image: url('../public/Stylized-Lightning-Bolt.png');
+  /* filter: grayscale(100%); */
+  /* margin-top: 10%; */
+}
+
+.img6 {
+  background-image: url('../public/Doctor-ISO_7010_E009.png');
+  /* filter: grayscale(100%); */
+  /* margin-top: 10%; */
+}
+
+.imgEnd6 {
+  background-image: url('../public/eleven.png') !important;
+  /* filter: grayscale(100%); */
+  /* filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(130deg) brightness(95%) contrast(80%) */
+  
+  /* animation: none !important; */
+  /* margin-top: 10%; */
+}
+
+.img7 {
+  background-image: url('../public/healtychild-vexel.png');
+  /* filter: grayscale(100%); */
+  /* margin-top: 10%; */
+}
+.imgEnd7 {
+  background-image: url('../public/output-onlinepngtools.png') !important;
+  /* filter: grayscale(100%); */
+  /* filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(130deg) brightness(95%) contrast(80%) */
+  
+  /* animation: none !important; */
+  /* margin-top: 10%; */
+}
+
+.img8 {
+  background-image: url('../public/1576315963nodiving.png');
+  /* filter: grayscale(100%); */
+  transform: rotate(-45deg);
+  animation: none !important;
+  /* margin-top: 10%; */
+}
+.imgEnd8 {
+  background-image: url('../public/maxmaifild.png') !important;
+  /* filter: grayscale(100%); */
+  /* filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(130deg) brightness(95%) contrast(80%) */
+  
+  /* animation: none !important; */
+  /* margin-top: 10%; */
+}
+
+.img9 {
+  background-image: url('../public/1343667790.png');
+  /* filter: grayscale(100%); */
+  /* margin-top: 10%; */
+}
+.img10 {
+  background-image: url('../public/altruism.png');
+  /* filter: grayscale(100%); */
+  /* margin-top: 10%; */
+}
+.img11 {
+  background-image: url('../public/kindpng_4412235.png');
+  /* filter: grayscale(100%); */
+  /* margin-top: 10%; */
+}
+.imgEnd11 {
+  background-image: url('../public/8f7ea6c792cd2c2ee673c061c42c3643.png') !important;
+  /* filter: grayscale(100%); */
+  /* filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(130deg) brightness(95%) contrast(80%) */
+  
+  /* animation: none !important; */
+  /* margin-top: 10%; */
+}
+.img12 {
+  background-image: url('../public/PinClipart.com_familyclipart_5549959.png');
+  /* filter: grayscale(100%); */
+  /* margin-top: 10%; */
+}
+.imgEnd12 {
+  background-image: url('../public/1247633 (1).png') !important;
+  /* filter: grayscale(100%); */
+  /* filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(130deg) brightness(95%) contrast(80%) */
+  
+  /* animation: none !important; */
+  /* margin-top: 10%; */
+}
+
+.img13 {
+  background-image: url('../public/Icon_Active.png');
+  /* filter: grayscale(100%); */
+  /* margin-top: 10%; */
+}
+.imgEnd13 {
+  background-image: url('../public/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.png') !important;
+  /* filter: grayscale(100%); */
+  /* filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(130deg) brightness(95%) contrast(80%) */
+  
+  /* animation: none !important; */
+  /* margin-top: 10%; */
+}
+
+.img14 {
+  background-image: url('../public/favpng_icon-design.png');
+  /* filter: grayscale(100%); */
+  /* margin-top: 10%; */
+}
+.img15 {
+  background-image: url('../public/pngegg (5).png');
+  /* filter: grayscale(100%); */
+  /* margin-top: 10%; */
+}
+.img16 {
+  background-image: url('../public/54057-funny-light-lamp-vector-bulb-cartoon.png');
+  /* filter: grayscale(100%); */
+  /* margin-top: 10%; */
+}
+.imgEnd16 {
+  background-image: url('../public/received_1816080661753008.png') !important;
+  /* filter: grayscale(100%); */
+  /* filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(130deg) brightness(95%) contrast(80%) */
+  
+  /* animation: none !important; */
+  /* margin-top: 10%; */
+}
+.img17 {
+  background-image: url('../public/title-950x700-1.png');
+  /* filter: grayscale(100%); */
+  /* margin-top: 10%; */
+}
+.imgEnd17 {
+  background-image: url('../public/80384-brown-microphone-stranger-bobby-things-eleven-professional.png') !important;
+  /* filter: grayscale(100%); */
+  /* filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(130deg) brightness(95%) contrast(80%) */
+  
+  /* animation: none !important; */
+  /* margin-top: 10%; */
+}
+.img18 {
+  background-image: url('../public/pngwing.com.png');
+  /* filter: grayscale(100%); */
+  /* margin-top: 10%; */
+}
+.imgEnd18 {
+  background-image: url('../public/stranger-things-erica-and-icecream-pack.png') !important;
+  /* filter: grayscale(100%); */
+  /* filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(130deg) brightness(95%) contrast(80%) */
+  
+  /* animation: none !important; */
+  /* margin-top: 10%; */
+}
+.img19 {
+  background-image: url('../public/195-1951162_child-drawing-dessin-animxe9-cartoon-illustration-children-play-cartoon.png');
+  /* filter: grayscale(100%); */
+  /* margin-top: 10%; */
+}
+.img20 {
+  background-image: url('../public/5750891.png');
+  /* filter: grayscale(100%); */
+  /* margin-top: 10%; */
+}
+.img21 {
+  background-image: url('../public/broken-heart-2.png');
+  /* filter: grayscale(100%); */
+  /* margin-top: 10%; */
+}
+.img22 {
+  background-image: url('../public/hero-bg.png');
+  /* filter: grayscale(100%); */
+  /* margin-top: 10%; */
+}
+.imgEnd22 {
+  background-image: url('../public/99fe30697eae661c322cdb9a7cc23c1f.png') !important;
+  /* filter: grayscale(100%); */
+  /* filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(130deg) brightness(95%) contrast(80%) */
+  
+  /* animation: none !important; */
+  /* margin-top: 10%; */
+}
+.img23 {
+  background-image: url('../public/1614571238_5-p-gorod-na-belom-fone-6.png');
+  /* filter: grayscale(100%); */
+  /* margin-top: 10%; */
+}
+.imgEnd23 {
+  background-image: url('../public/00d9d0fbbe86971bb4f01a2d31801325.png') !important;
+  /* filter: grayscale(100%); */
+  /* filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(130deg) brightness(95%) contrast(80%) */
+  
+  /* animation: none !important; */
+  /* margin-top: 10%; */
+}
+.img24 {
+  background-image: url('../public/heart-2.png');
+  /* filter: grayscale(100%); */
+  /* margin-top: 10%; */
+}
+.img25 {
+  background-image: url('../public/250-2501838_vector-illustration-of-mountain-goat-rams-butt-heads-contract.png');
+  /* filter: grayscale(100%); */
+  /* margin-top: 10%; */
+}
+.imgEnd25 {
+  background-image: url('../public/cb459af5a7c681c5bbf9de3ea9cdb4a6.png') !important;
+  /* filter: grayscale(100%); */
+  /* filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(130deg) brightness(95%) contrast(80%) */
+  
+  /* animation: none !important; */
+  /* margin-top: 10%; */
+}
+.img26 {
+  background-image: url('../public/handshake-png-hd-big-image-png-2400.png');
+  /* filter: grayscale(100%); */
+  /* margin-top: 10%; */
+}
+.imgEnd26 {
+  background-image: url('../public/aa0788834de2f94c3f2c4940a535a4ce.png') !important;
+  /* filter: grayscale(100%); */
+  /* filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(130deg) brightness(95%) contrast(80%) */
+  
+  /* animation: none !important; */
+  /* margin-top: 10%; */
+}
+.img27 {
+  background-image: url('../public/flag_of_freedom_T.png');
+  /* filter: grayscale(100%); */
+  /* margin-top: 10%; */
+}
+.img28 {
+  background-image: url('../public/pngwing.com (1).png');
+  /* filter: grayscale(100%); */
+  /* margin-top: 10%; */
+}
+.img29 {
+  background-image: url('../public/hero-bg.png');
+  /* filter: grayscale(100%); */
+  /* margin-top: 10%; */
+}
+.imgEnd29 {
+  background-image: url('../public/54719b01c7ecf8df76bda2a0c0e81673.png') !important;
+  /* filter: grayscale(100%); */
+  /* filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(130deg) brightness(95%) contrast(80%) */
+  
+  /* animation: none !important; */
+  /* margin-top: 10%; */
+}
+.img30 {
+  background-image: url('../public/1614571238_5-p-gorod-na-belom-fone-6.png');
+  /* filter: grayscale(100%); */
+  /* margin-top: 10%; */
+}
+.imgEnd30 {
+  background-image: url('../public/Stranger-Things-Jason.png') !important;
+  /* filter: grayscale(100%); */
+  /* filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(130deg) brightness(95%) contrast(80%) */
+  
+  /* animation: none !important; */
+  /* margin-top: 10%; */
+}
+.img31 {
+  background-image: url('../public/97-977946_student-learning-education-understanding-the-learners-psychological-and-educational.png');
+  /* filter: grayscale(100%); */
+  /* margin-top: 10%; */
+}
+.img32 {
+  background-image: url('../public/death_PNG22.png');
+  /* filter: grayscale(100%); */
+  /* margin-top: 10%; */
+}
+.imgEnd32 {
+  background-image: url('../public/juancarlos-narvaez-asset.png') !important;
+  /* filter: grayscale(100%); */
+  /* filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(130deg) brightness(95%) contrast(80%) */
+  
+  /* animation: none !important; */
+  /* margin-top: 10%; */
+}
+.img33 {
+  background-image: url('../public/1434211.png');
+  /* filter: grayscale(100%); */
+  /* margin-top: 10%; */
+}
+.imgEnd33 {
+  background-image: url('../public/c18e68c4b52e03cefde5c35664eba386.png') !important;
+  /* filter: grayscale(100%); */
+  /* filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(130deg) brightness(95%) contrast(80%) */
+  
+  /* animation: none !important; */
+  /* margin-top: 10%; */
+}
+.img34 {
+  background-image: url('../public/Forever-Friendship-PNG-Transparent-Image.png');
+  /* filter: grayscale(100%); */
+  /* margin-top: 10%; */
+}
+.imgEnd34 {
+  background-image: url('../public/f5ed93d6eb481b696cbc462c2dd58a06.png') !important;
+  /* filter: grayscale(100%); */
+  /* filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(130deg) brightness(95%) contrast(80%) */
+  
+  /* animation: none !important; */
+  /* margin-top: 10%; */
+}
+.img35 {
+  background-image: url('../public/Old-Black.png');
+  filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(130deg) brightness(95%) contrast(80%)
+}
+.img36 {
+  background-image: url('../public/good.png');
+  /* filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(130deg) brightness(95%) contrast(80%) */
+}
+.img37 {
+  background-image: url('../public/7cwZrmenXO18fB2qun8x59vzLkmvRcAOI-rCwnuQ6qM42afquvbrHTACd4uV3jXJ8UCU55xG.png');
+  /* filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(130deg) brightness(95%) contrast(80%) */
+}
+.img38 {
+  background-image: url('../public/177-1777025_lying-on-top-of-the-hammock-man-lying-on-top-of-the.png');
+  /* filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(130deg) brightness(95%) contrast(80%) */
+}
+.img39 {
+  background-image: url('../public/Poor-PNG-Transparent-Picture.png');
+  /* filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(130deg) brightness(95%) contrast(80%) */
+}
+.img40 {
+  background-image: url('../public/png-clipart-computer-icons-child-symbol-child-child-people.png');
+  /* filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(130deg) brightness(95%) contrast(80%) */
+}
+.img41 {
+  background-image: url('../public/пацан-png-3.png');
+  /* filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(130deg) brightness(95%) contrast(80%) */
+}
+.img42 {
+  background-image: url('../public/7323a222.png');
+  /* filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(130deg) brightness(95%) contrast(80%) */
+}
+.img43 {
+  background-image: url('../public/пацан-png-3.png');
+  /* filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(130deg) brightness(95%) contrast(80%) */
+}
+.img44 {
+  background-image: url('../public/7323a222.png');
+  /* filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(130deg) brightness(95%) contrast(80%) */
+}
+.img45 {
+  background-image: url('../public/19-193797_hero-clipart-bravely-hro-png-transparent-png.png');
+  /* filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(130deg) brightness(95%) contrast(80%) */
+}
+.img45 {
+  background-image: url('../public/19-193797_hero-clipart-bravely-hro-png-transparent-png.png');
+  /* filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(130deg) brightness(95%) contrast(80%) */
+}
+.img46 {
+  background-image: url('../public/midkiffaries-Glossy-Emoticons.png');
+  /* filter: grayscale(100%); */
+  /* margin-top: 10%; */
+}
+.img47 {
+  background-image: url('../public/1343667790.png');
+  /* filter: grayscale(100%); */
+  /* margin-top: 10%; */
+}
+.img48 {
+  background-image: url('../public/133-1334338_resultado-de-imagem-para-courage-the-cowardly-dog-courage-the-cowardly-dog.png');
+  /* filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(130deg) brightness(95%) contrast(80%) */
+}
+.img49 {
+  background-image: url('../public/Vladimir-Putin-PNG-image.png');
+  /* filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(130deg) brightness(95%) contrast(80%) */
+}
+.img50 {
+  background-image: url('../public/pngwing.com (3).png');
+  /* filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(130deg) brightness(95%) contrast(80%) */
+}
+.img51 {
+  background-image: url('../public/pngegg (6).png');
+  /* filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(130deg) brightness(95%) contrast(80%) */
+}
+.img52 {
+  background-image: url('../public/evil.png');
+  /* filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(130deg) brightness(95%) contrast(80%) */
+}
+
+.imgEnd {
+  background-image: url('../public/Like-Thumbs-Up-Word-Cloud-No-Background.png');
+  filter: invert(48%) sepia(13%) saturate(3207%) hue-rotate(130deg) brightness(95%) contrast(80%)
+}
+
+.bgimage {
+  background-image: url('../public/Animals-Heart.png');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  min-height: 100vh;
+  min-width: 100vw;
+  display: flex;
+  position: absolute;
+  animation: heartbeat 8s infinite;
+  z-index: 1;
+}
+
+
+
+@font-face {
+  font-family: arturs;
+  src: URL('../public/basis33.ttf') format('truetype');
+}
+
+@keyframes heartbeat {
+  0% {
+    transform: scale(.9);
+  }
+
+  20% {
+    transform: scale(1);
+  }
+
+  40% {
+    transform: scale(.9);
+  }
+
+  60% {
+    transform: scale(1);
+  }
+
+  80% {
+    transform: scale(.9);
+  }
+
+  100% {
+    transform: scale(.9);
+  }
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes gradient {
+
+  0% {
+    background-position: 0% 50%;
+  }
+
+  50% {
+    background-position: 100% 50%;
+  }
+
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.Showhide-show {
+  visibility: visible !important;
+  opacity: 1 !important;
+}
+
+@keyframes spin {
+  0% {
+    transform: scale(.9) rotate(0deg);
+  }
+
+  20% {
+    transform: scale(1) rotate(72deg);
+  }
+
+  40% {
+    transform: scale(.9) rotate(144deg);
+  }
+
+  60% {
+    transform: scale(1) rotate(216deg);
+  }
+
+  80% {
+    transform: scale(.9) rotate(288deg);
+  }
+
+  100% {
+    transform: scale(.9) rotate(360deg);
+  }
+}
+
+@keyframes run {
+  0% {
+    left: 0;
+  }
+
+  100% {
+    left: 100%;
+  }
+}
+
+.Showhide {
+  background-position: center center;
+  background-repeat: no-repeat;
+  visibility: hidden;
+  opacity: 0;
+  transition: visibility 1s linear, opacity 1s linear;
+  min-height: 100vh;
+  min-width: 100vw;
+  background-size: contain;
+  display: flex;
+  position: absolute;
+  animation: heartbeat 8s infinite;
+  z-index: 1;
+}
+
+.image {
+  background-image: url('../public/Prismatic-Animals-Heart.png');
+  background-position: center center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  min-width: 100vw;
+  background-size: contain;
+  display: flex;
+  clip-path: circle(100px at 0px 0px);
+  /* clip-path: rectangle(100px at 0px 0px); */
+  position: absolute;
+  animation: heartbeat 8s infinite;
+  /* z-index: 1; */
+  z-index: 0;
+}
+
+@keyframes blink {
+  0% {
+    top: 50%;
+  }
+
+  50% {
+    left: 50%;
+    top: 100%;
+  }
+
+  100% {
+    left: 100%;
+    top: 50%;
+  }
+}
